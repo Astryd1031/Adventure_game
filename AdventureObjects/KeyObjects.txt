@@ -1,0 +1,19 @@
+BIRD
+a water bird
+1
+
+CHEST
+a pirate chest
+2
+
+BOOK
+a copy of an illuminated manuscript
+3
+
+FlOWER
+a lavander
+7
+
+CHAIR
+a sleeping couch
+5

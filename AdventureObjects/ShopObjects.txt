@@ -1,0 +1,19 @@
+SHIELD
+a shield against trolls
+1500
+
+TICKET
+a ticket to final room
+9000
+
+LANTERN
+a room object illuminator
+6000
+
+HINT
+an automated best location hinter
+4000
+
+SILENCE
+automatically turn off NPC
+2000

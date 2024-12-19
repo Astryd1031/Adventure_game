@@ -1,0 +1,15 @@
+LANTERN
+Congrats! you can illuminate room objects now!
+5600
+5
+
+SHIELD
+Yay! i can skip one troll game now!
+9000
+4
+
+CREDIT CARD
+WOW you can borrow items in store now! your interest rate is 15%
+20
+3
+
